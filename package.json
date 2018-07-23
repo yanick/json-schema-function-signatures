@@ -1,0 +1,27 @@
+{
+  "name": "json-schema-function-signatures",
+  "version": "0.0.1",
+  "description": "Validating function inputs/outputs with json schemas",
+  "main": "index.js",
+  "author": "Yanick Champoux <yanick@babyl.dyndns.org>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^23.4.1",
+    "json-schema-shorthand": "^0.3.0",
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.0.0-beta.54",
+    "@babel/core": "^7.0.0-beta.54",
+    "@babel/helper-plugin-utils": "^7.0.0-beta.54",
+    "@babel/node": "^7.0.0-beta.54",
+    "@babel/plugin-proposal-pipeline-operator": "^7.0.0-beta.54",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "^23.4.0",
+    "babel-plugin-transform-function-bind": "^7.0.0-beta.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^7.0.0-beta.3",
+    "babel-preset-stage-1": "^7.0.0-beta.3",
+    "prettier": "^1.13.7"
+  }
+}
