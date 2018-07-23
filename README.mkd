@@ -19,11 +19,11 @@ Using the proposed pipeline operator via [babel](https://www.npmjs.com/package/@
         }
             |> funcSchema(
                 [number({ minimum: 2 }), number({ maximum: 3 })],
-                object({
+                object({                                          
                     sum: number({ minimum: 10 }),
                     ctx: object({ baz: string({ minLength: 3 }) })
                 }),
-                contextSchema(string()
+                string()
             );
 
 
