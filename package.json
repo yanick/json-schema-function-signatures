@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Validating function inputs/outputs with json schemas",
   "main": "lib/index.js",
-  "author": "Yanick Champoux <yanick@babyl.ca>",
+  "author": "Yanick Champoux <yanick@babyl.ca> (http://techblog.babyl.ca)",
   "license": "MIT",
   "repository": {
     "type": "git",
