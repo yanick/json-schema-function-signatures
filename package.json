@@ -1,6 +1,6 @@
 {
   "name": "json-schema-function-signatures",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Validating function inputs/outputs with json schemas",
   "main": "lib/index.js",
   "author": "Yanick Champoux <yanick@babyl.ca> (http://techblog.babyl.ca)",
