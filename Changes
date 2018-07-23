@@ -1,5 +1,9 @@
 # Changelog for json-schema-function-signatures 
 
+## v0.0.3 - 2018-07-23
+
+- Forgot 'ajv' as a dependency... 
+
 ## v0.0.2 - 2018-07-23
 
 - Rename README.mkd to README.md for npm.

@@ -19,6 +19,7 @@
     "prepublish": "yarn run clean && yarn run build"
   },
   "dependencies": {
+    "ajv": "^6.5.2",
     "json-schema-shorthand": "^0.3.0",
     "lodash": "^4.17.10"
   },
